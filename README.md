@@ -1,4 +1,6 @@
-# Stroke Functional Outcome Prediction (Ordinal ML)
+<img width="1366" height="572" alt="image" src="https://github.com/user-attachments/assets/a9648073-5aac-4fe2-974f-b2fbc602f3ed" /># Stroke Functional Outcome Prediction (Ordinal ML)
+
+## Note: This repository contains the baseline comparative models (XGBoost). The advanced multimodal fusion framework (LightGBM + 3D-CNN) mentioned in my current research is currently unpublished/under preparation and will be released upon publication.
 
 XGBoost-based dual-head pipeline for ordinal prediction of post-stroke functional outcome (e.g. mRS), alongside stroke subtype classification.
 
